@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: zomato-container
-          image: kastrov/zomato
+          image: kastrov/swiggy
           ports:
             - containerPort: 3000  # Your app runs on port 3000
 ---
